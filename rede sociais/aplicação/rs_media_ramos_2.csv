@@ -1,0 +1,14 @@
+networkType:oriented 
+from,to,weight
+
+s01,s02,1
+s01,s03,1
+s01,s04,1
+s02,s03,1
+s03,s04,1
+s03,s01,1
+s04,s01,1
+s04,s03,1
+
+
+

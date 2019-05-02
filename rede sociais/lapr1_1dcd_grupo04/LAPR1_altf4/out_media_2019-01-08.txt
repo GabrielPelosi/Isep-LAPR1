@@ -1,0 +1,41 @@
+ESTUDO DA REDE SOCIAL
+MEDIDAS AO NÍVEL DOS NÓS
+Graus de entrada dos nós
+O valor do grau de entrada na posição 1 é 3.
+O valor do grau de entrada na posição 2 é 1.
+O valor do grau de entrada na posição 3 é 1.
+O valor do grau de entrada na posição 4 é 1.
+
+Graus de saída dos nós
+O valor do grau de saida na posição 1 é 0.
+O valor do grau de saida na posição 2 é 1.
+O valor do grau de saida na posição 3 é 3.
+O valor do grau de saida na posição 4 é 2.
+
+Page Rank
+Iteração 0 
+0.25   0.25   0.25   0.25   
+Iteração 1 
+0.037500000000000006   0.10833333333333331   0.5333333333333333   0.3208333333333333   
+Iteração 2 
+0.037500000000000006   0.04812500000000001   0.4129166666666666   0.5014583333333333   
+Iteração 3 
+0.037500000000000006   0.048125   0.5152708333333333   0.39910416666666665   
+Iteração 4 
+0.037500000000000006   0.04812500000000001   0.4282697916666666   0.4861052083333333   
+Iteração 5 
+0.037500000000000006   0.048125   0.5022206770833333   0.41215432291666665   
+Iteração 6 
+0.037500000000000006   0.048125   0.4393624244791666   0.47501257552083326   
+Iteração 7 
+0.037500000000000006   0.048125   0.49279193919270825   0.42158306080729163   
+
+ Page Rank Absoluto 
+     0,038     0,048     0,468     0,446
+
+
+ Software por Alt+F4 
+ Ricardo Lopes - 1180669 
+ Francisco Ferreira - 1180682 
+ Gabriel Pelosi - 1180017 
+ Diogo Soares - 1180704

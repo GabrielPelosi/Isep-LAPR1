@@ -1,0 +1,7 @@
+id,media,media.type,type.label,webURL
+
+s01,NY Times,1,Newspaper,https://www.nytimes.com/
+s02,Washington Post,1,Newspaper, https://www.washingtonpost.com/
+s03,Wall Street Journal,1,Newspaper, https://www.wsj.com/
+s04,USA Today,1,Newspaper,https://www.usatoday.com/ 
+

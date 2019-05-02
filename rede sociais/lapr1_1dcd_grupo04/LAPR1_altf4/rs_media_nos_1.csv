@@ -1,0 +1,19 @@
+id,media,media.type,type.label,webURL
+
+s01,NY Times,1,Newspaper,https://www.nytimes.com/
+s02,Washington Post,1,Newspaper, https://www.washingtonpost.com/
+s03,Wall Street Journal,1,Newspaper,https://www.nytimes.com/
+s04,USA Today,1,Newspaper, https://www.washingtonpost.com/
+s05,LA Times,1,Newspaper,https://www.nytimes.com/
+s06,New York Post,1,Newspaper, https://www.washingtonpost.com/
+s07,CNN,2,TV,https://www.nytimes.com/
+s08,MSNBC,2,TV, https://www.washingtonpost.com/
+s09,FOX News,2,TV,https://www.nytimes.com/
+s10,ABC,2,TV, https://www.washingtonpost.com/
+s11,BBC,2,TV,https://www.nytimes.com/
+s12,Yahoo News,3,Online, https://www.washingtonpost.com/
+s13,Google News,3,Online,https://www.nytimes.com/
+s14,Reuters.com,3,Online, https://www.washingtonpost.com/
+s15,NYTimes.com,3,Online,https://www.nytimes.com/
+s16,WashingtonPost.com,3,Online, https://www.washingtonpost.com/
+s17,AOL.com,3,Online,https://www.nytimes.com/

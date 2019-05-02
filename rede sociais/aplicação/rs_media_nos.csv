@@ -1,0 +1,19 @@
+id,media,media.type,type.label
+
+s01,NY Times,1,Newspaper
+s02,Washington Post,1,Newspaper
+s03,Wall Street Journal,1,Newspaper
+s04,USA Today,1,Newspaper
+s05,LA Times,1,Newspaper
+s06,New York Post,1,Newspaper
+s07,CNN,2,TV
+s08,MSNBC,2,TV
+s09,FOX News,2,TV
+s10,ABC,2,TV
+s11,BBC,2,TV
+s12,Yahoo News,3,Online
+s13,Google News,3,Online
+s14,Reuters.com,3,Online
+s15,NYTimes.com,3,Online
+s16,WashingtonPost.com,3,Online
+s17,AOL.com,3,Online
