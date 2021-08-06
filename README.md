@@ -7,6 +7,19 @@
 ## Project Context 
 * The project was developed in the first grade od Software Engineering course, so no design patters or documentenation wasn't required, Object Orientated porgraming, Low Coupling and High cousian wasn't used by the team.
 
+## Functionalities
+#### All the functionalities receive a matrix that represents a social media 
+
+* Calculate degrees of each node
+* Calculate centrality 
+* average of dreege nodes
+* Calculate density 
+* Calculate the power of the matrix (power is also a input from user)
+* If is orientated matrix, calculate exit deegre and enter deegre of each node
+* If is orientated matrix, calculate de dumping factor
+* If is orientated matrix,  calculate the page rank 
+
+
 ## What improve?
 
 * In this moment of my knowledge, i have in my mind that Object orientated programing with a web framework could improve and add to much to this project
