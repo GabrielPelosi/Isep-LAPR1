@@ -19,6 +19,10 @@
 * If is orientated matrix, calculate de dumping factor
 * If is orientated matrix,  calculate the page rank 
 
+## Functional requirements
+
+* Unit Tests
+* Error prevent
 
 ## What improve?
 
